@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "timeburner";
+    src: url(portfolio-options-font-collection/timeburner-15111/Timeburner-xJB8.ttf) format(ttf);
+    src: url(portfolio-options-font-collection/timeburner-15111/TimeburnerBold-peGR.ttf) format(ttf);
+}
+
+.logo{
+    font-family: "timeburner";
+    background-color: #3A5A40;
+    color: #DAD7CD;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.nav {
+    font-family: "timeburner";
+    background-color: #3A5A40;
+    overflow: hidden;
+}
+.nav a {
+    float: right;
+    display: block;
+    color: #DAD7CD;
+    text-align: center;
+    padding: 26.5px 20px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+ .nav a:hover{
+    background-color: #A3B18A;
+    color: #081c15;
+ }
+
+ .nav a:active {
+    background-color: #588157;
+    color: #081c15;
+ }
