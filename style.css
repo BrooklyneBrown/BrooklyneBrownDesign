@@ -36,3 +36,7 @@
     background-color: #588157;
     color: #081c15;
  }
+
+ .welcome-message {
+    display: block;
+ }
